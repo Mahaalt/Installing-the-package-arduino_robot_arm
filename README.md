@@ -68,3 +68,13 @@ To run the Move It:
 To run Gazebo and Move It:
 
 `roslaunch moveit_pkg demo_gazebo.launch`
+
+These all program:
+
+![Screenshot_2021-06-19_20-54-22](https://user-images.githubusercontent.com/71232960/122655542-babb5380-d15b-11eb-80e6-8243d0617304.png)
+
+![Screenshot_2021-06-17_09-27-37](https://user-images.githubusercontent.com/71232960/122655587-0f5ece80-d15c-11eb-9535-e3a7de7c21d3.png)
+![Screenshot_2021-06-19_20-59-45](https://user-images.githubusercontent.com/71232960/122655588-0ff76500-d15c-11eb-8051-952f6e429bba.png)
+
+![Screenshot_2021-06-19_20-37-53](https://user-images.githubusercontent.com/71232960/122655592-1be32700-d15c-11eb-8213-ab62fcc043ab.png)
+![Screenshot_2021-06-19_21-07-00](https://user-images.githubusercontent.com/71232960/122655595-1d145400-d15c-11eb-86b4-dd687dc950eb.png)
